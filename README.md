@@ -1,5 +1,4 @@
 # vision-and-translation
-Here’s a complete and detailed **`README.md`** for your project:
 
 ---
 
@@ -149,6 +148,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## **Credits**
 Developed by **Muavia Shakeel**.
 
----
 
-Feel free to copy this into your `README.md` file. Let me know if you'd like to add or change anything!
